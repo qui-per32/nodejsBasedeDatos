@@ -1,0 +1,27 @@
+{
+  "name": "nodejsbasededatos",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "bcrypt": "^2.0.1",
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-session": "^1.15.6",
+    "hbs": "~4.0.1",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "nodemailer": "^4.6.7",
+    "nodemailer-express-handlebars": "^3.0.0",
+    "nodemon": "^1.17.5",
+    "winston": "^3.0.0"
+  }
+}
